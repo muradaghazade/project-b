@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+.main {
+    display: flex;
+}
+
+.first {
+    width: 55%;
+    height: 700px;
+    background-color: #192D35;
+}
+
+.second {
+    width: 45%;
+    height: 700px;
+    background-color: #1CBBB4;
+}
+
+.logo {
+    width: 40px;
+}
+
+.logo-text {
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    outline: none;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.header-text {
+    color: white;
+}
+
+.header-content {
+    color: white;
+}
